@@ -11,7 +11,7 @@ PyTorch utilities to train **differentiable compositional trees** (fixed skeleto
 
 ## Install
 
-From the repository root (parent of `icml2026/`):
+From the repository root:
 
 ```bash
 python -m venv .venv
